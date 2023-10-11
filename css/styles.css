@@ -1,3 +1,31 @@
 h1 {
     text-align: center;
 }
+h2 {
+    font-size: 60px;
+    text-align: center;
+    background-color:pink;
+}
+
+#blog  {
+    color: rgb(177, 188, 230);
+    font-size: 35px;
+    text-align: center;
+}
+ body {
+    background-color: beige;
+    font-weight: bolder;
+    font-size: 35px;
+ }
+
+ .goals {
+    font-size:30px;
+    background-color: darkgrey;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .intro {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+ }
